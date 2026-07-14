@@ -1,0 +1,7 @@
+{
+  "name": "bandurriapp",
+  "private": true,
+  "scripts": {
+    "build": "echo done"
+  }
+}
